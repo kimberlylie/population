@@ -1,3 +1,3 @@
 # Indonesian Cities' Populous \#
 
-Trying out chart.js to depict a few cities in Indonesia's population.
+Trying out Chart.js to depict the population of the 5 largest cities in Indonesia.
